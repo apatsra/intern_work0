@@ -1,3 +1,2 @@
-﻿# intern_work0
- bookpark website using PugJS, SASS, Nodejs
+﻿#  bookpark website using PugJS, SASS
  
